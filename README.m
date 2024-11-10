@@ -1,4 +1,4 @@
-**# Assignment 01 Foundation on Artificial Intelligence**
+**# Assignment 01 Foundation on Artificial Intelligence**.
 
 01_Kelompok F_2  <br>
 Ketika seorang nasabah meminta pencairan seluruh tabungannya dalam bentuk tunai, bank memiliki aturan khusus dalam proses pencairan uang:
